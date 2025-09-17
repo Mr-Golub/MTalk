@@ -1,0 +1,39 @@
+{
+  "JSON_DATA_ARRAY": [
+    {
+      "ID": "p001",
+      "NAME": "阿乐",
+      "CONDITION": "common",
+      "VALUE": "你有那么多人支持，不用我也够了。",
+      "SELECT": "1#-h1"
+    },
+    {
+      "ID": "p001",
+      "NAME": "阿乐",
+      "CONDITION": "common-h1",
+      "VALUE": "你们怎么想？",
+      "SELECT": "4#我一定要选*-h2;我放弃*-h2-h1"
+    },
+    {
+      "ID": "p001",
+      "NAME": "阿乐",
+      "CONDITION": "common-h1-h2",
+      "VALUE": "哈哈哈，好啊，有志气！哎，附近有一家新开的钓场，改天我们一起去钓鱼。",
+      "SELECT": "5#stay"
+    },
+    {
+      "ID": "p001",
+      "NAME": "阿乐",
+      "CONDITION": "common-h1-h2-h1",
+      "VALUE": "哈哈哈，好，好，好。",
+      "SELECT": "1#-h2"
+    },
+    {
+      "ID": "p001",
+      "NAME": "阿乐",
+      "CONDITION": "common-h1-h2-h1-h2",
+      "VALUE": "我们要以和为贵。",
+      "SELECT": "5#stay"
+    }
+  ]
+}
